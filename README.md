@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Yasin Arafat
 #### Jr. React Developer
 
-I am a junior react developer with experience building websites. I specialize in JavaScript. I also have experience working with ExpressJs, and MongoDB.
+I am a junior react developer with experience building websites. I specialize in JavaScript. Also, have experience working with MERN stack technology.
 
 Skills: HTML, CSS, JavaScript, TypeScript, ReactJs, Redux, NodeJs, ExpressJs, MongoDB
 
