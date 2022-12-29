@@ -4,7 +4,7 @@
 
 I am a junior react developer with experience building websites. I specialize in JavaScript. I also have experience working with ExpressJs, and MongoDB.
 
-Skills: REACT / JS / HTML / CSS
+Skills: HTML, CSS, JavaScript, TypeScript, ReactJs, Redux, NodeJs, ExpressJs, MongoDB
 
 - 📫 How to reach me: arafatsadi1@gmail.com
 
